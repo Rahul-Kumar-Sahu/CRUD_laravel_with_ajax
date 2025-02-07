@@ -106,7 +106,7 @@
 
                 <div class="mb-3 w-100">
                     <label for="disabledTextInput" class="form-label">Employee Address</label>
-                    <textarea type="text" id="address" class="form-control"
+                    <textarea type="text" id="address" class="form-control" style=""
                         placeholder="Your Address..">{{ @$details->emp_address }}"</textarea>
                 </div>
             </div>
